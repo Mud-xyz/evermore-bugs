@@ -23,5 +23,7 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Additional context**
+What is the Match ID for the match?
+Roughly when did this occur (with timezone)?
 Which browser were you using?
 Do you have any special hardware or software running?
